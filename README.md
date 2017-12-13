@@ -23,6 +23,9 @@ npm run dev
 # connect with database
 sudo service mongod start
 
+# connect with backend
+node server
+
 ```
 
 ## Architecture Discussion
